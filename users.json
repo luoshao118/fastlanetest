@@ -1,0 +1,18 @@
+[
+  {
+    "id": "d4282de6-d1e0-4a54-bf38-2e1a13dd54b7",
+    "email": "luoshao118",
+    "password_hash": "$2a$10$zzd5Vp4.ta05jA4Q5Yn9q.EeV4zPdiEOP5cnXxLCReF1wgmP49EHS",
+    "provider_credentials": [
+      {
+        "id": "7daeb055-83dc-408a-8c66-3873beade413",
+        "email": "luoshao118@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "N6YNYCUiQB6NM0LxC6OU57QmhWv8EOIUEKwGf0TEbiufgMg4N6HhDW9i0XbP\nfk4qHDTExmh5kDsbd1hXxgVeog==\n"
+      }
+    ]
+  }
+]
